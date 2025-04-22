@@ -24,4 +24,9 @@ Make sure to use your calpoly email as your email adress.
 
 <img width="484" alt="Screenshot 2025-04-22 at 12 29 56 PM" src="https://github.com/user-attachments/assets/9a1eaa1b-9ab3-4597-ae54-8ab550fc1e90" />
 
+Once you've made your account. Make your first repository!
+
+## Repository
+
+
 
