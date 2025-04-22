@@ -37,9 +37,9 @@ It is good practice to:
 - Add a description
     - Using the example above, a good description would be :
     > *A chess-playing AI bot who ridicules thier opponents based on the moves they make while playing.*
-- Check off "Add a README.md" *unless specified not to by professors*
-    - A README.md file is a markdown text file that works as a place for general documentation.
-    - You can add more .md files for more documentation on larger projects!
+- Check off "Add a README.md" \*unless specified not to by professors  
+    - A *README.md* file is a markdown text file that works as a place for general documentation.
+    - You can add more *.md* files for more documentation on larger projects!
 
 
 
