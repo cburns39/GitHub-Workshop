@@ -31,13 +31,13 @@ Once you've made your account. Make your first repository!
 Go to the profile dropdown and go to "Your repositories" and make a "New" repository.
 
 It is good practice to:
-- Name your repository with purpose!
+- Name your repository with purpose
     - Dont name it: *Bingus-Khan* -- when your project is a chess solving bot who trashtalks his opponent.
     - Instead name it something like : *verbose-sudobot*
-- Add a description!
+- Add a description
     - Using the example above, a good description would be :
     > *A chess-playing AI bot who ridicules thier opponents based on the moves they make while playing.*
-- Check off "Add a README.md"
+- Check off "Add a README.md" *unless specified not to by professors*
     - A README.md file is a markdown text file that works as a place for general documentation.
     - You can add more .md files for more documentation on larger projects!
 
