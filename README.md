@@ -1,6 +1,5 @@
 # DPL GitHub Workshop  
 
----
 
 ## Installing Git  
 
@@ -58,6 +57,11 @@ To clone:
 ### Now move onto how to version control with git.
 
 [Guide to using Git for version control](GitControl.md)
+
+---
+
+**Contributers**
+Madison Lopez
 
 
 
