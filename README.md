@@ -3,7 +3,7 @@
 
 ## Installing Git  
 
-To **install** git you must locally install it to your computer:  
+To install **Git** you must locally install it to your computer:  
 
 ### Windows:  
 > [Install Latest Here](https://git-scm.com/downloads/win)  
@@ -35,7 +35,8 @@ It is good practice to:
     - Instead name it something like : *verbose-sudobot*
 - Add a description
     - Using the example above, a good description would be :
-    > *A chess-playing AI bot who ridicules thier opponents based on the moves they make while playing.*
+    > *A chess-playing AI bot who ridicules thier*  
+    > *opponents based on the moves they make while playing.*
 - Check off "Add a README.md" \*unless specified not to by professors  
     - A *README.md* file is a markdown text file that works as a place for general documentation.
     - You can add more *.md* files for more documentation on larger projects!
@@ -44,23 +45,22 @@ It is good practice to:
 Now that you have a repository, you can clone it to edit your code and test in an IDE of your choice!
 
 To clone:
-1. Click on the **"< > Code"**
-2. Under **Local** and **HTTPS**, copy the link provided.
-3. In your programming IDE (*VSCode*, *PyCharm*, *IntelliJ*, *etc*)
-	2. Select clone repository and paste the link.
-    2. Select where you want the local project stored.
+1. Click on the **"< > Code"**  
+2. Under **Local** and **HTTPS**, copy the link provided.  
+3. In your programming IDE (*VSCode*, *PyCharm*, *IntelliJ*, *etc*)  
+   1. Select clone repository and paste the link.  
+   2. Select where you want the local project stored.  
   
 # SUCCESS!!
 
-### You now have a working local project where you can edit and push your changes to your github repository.
+### You now have a working local project where you can edit and push your changes to your github repository.  
+### Now move onto how to version control with git.  
 
-### Now move onto how to version control with git.
-
-[Guide to using Git for version control](GitControl.md)
+[Guide to using Git for version control](GitControl.md)  
 
 ---
 
-**Contributers**
+**Contributers**  
 Madison Lopez
 
 
