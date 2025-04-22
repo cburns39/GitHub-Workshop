@@ -57,6 +57,8 @@ To clone:
 
 ### Now move onto how to version control with git.
 
+[Guide to using Git for version control](docs/GitControl.md)
+
 
 
 
