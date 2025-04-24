@@ -3,7 +3,7 @@
 
 ## Installing Git  
 
-To install **Git** you must locally install it to your computer:  
+To use **Git** you must locally install it to your computer:  
 
 ### Windows:  
 > [Install Latest Here](https://git-scm.com/downloads/win)  
