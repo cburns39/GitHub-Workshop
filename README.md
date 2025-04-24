@@ -33,7 +33,7 @@ Go to the profile dropdown and go to "Your repositories" and make a "New" reposi
 
 It is good practice to:
 - Name your repository with purpose
-    - Dont name it: *Bingus-Khan* -- when your project is a chess solving bot who trashtalks his opponent.
+    - Dont name it: *dork_destroyer* -- when your project is a chess solving bot who trashtalks his opponent.
     - Instead name it something like : *verbose-sudobot*
 - Add a description
     - Using the example above, a good description would be :
