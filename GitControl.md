@@ -3,4 +3,4 @@
 ---
 
 ## The Git Workflow
-<img src="https://github.com/user-attachments/assets/14407600-def0-439f-8a44-85bd9bef2074" alt="Github Workflow" width="200"/>
+<img width="600" alt="Github Workflow" src="https://github.com/user-attachments/assets/55fa72c1-26a7-4a87-9ba5-0aac28b99e9e" />
