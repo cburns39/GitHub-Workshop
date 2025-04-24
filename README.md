@@ -7,7 +7,7 @@ To install **Git** you must locally install it to your computer:
 
 ### Windows:  
 > [Install Latest Here](https://git-scm.com/downloads/win)  
-> *Download through "Click here to download the latest (2.49.0) 64-bit version of Git for Windows"*  
+> \**Download through "Click here to download the latest (2.49.0) 64-bit version of Git for Windows"*  
 
 ### Linux:  
 Type into your terminal command-line:
@@ -16,7 +16,7 @@ Type into your terminal command-line:
 ### Mac:  
 Type into your terminal command-line:
 > $ git --version  
-> *If you dont already have it installed, it will prompt you to install*
+> \**If you dont already have it installed, it will prompt you to install*
 
 ## Make a GitHub Account  
 
@@ -49,7 +49,7 @@ Now that you have a repository, you can clone it to edit your code and test in a
 To clone:
 1. Click on the **"< > Code"**  
 2. Under **Local** and **HTTPS**, copy the link provided.  
-3. In your programming IDE (*VSCode*, *PyCharm*, *IntelliJ*, *etc*) \*If you need help finding this in your specific IDE, just ask!  
+3. In your programming IDE (*VSCode*, *PyCharm*, *IntelliJ*, *etc*) \**If you need help finding this in your specific IDE, just ask!*  
    1. Select clone repository and paste the link.  
    2. Select where you want the local project stored.  
   
