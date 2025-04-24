@@ -10,11 +10,11 @@ To install **Git** you must locally install it to your computer:
 > *Download through "Click here to download the latest (2.49.0) 64-bit version of Git for Windows"*  
 
 ### Linux:  
-Type into your command-line:
+Type into your terminal command-line:
 > $ sudo apt install git-all
 
 ### Mac:  
-Type into your command-line:
+Type into your terminal command-line:
 > $ git --version  
 > *If you dont already have it installed, it will prompt you to install*
 
