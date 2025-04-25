@@ -9,7 +9,7 @@
 
 Most IDE's have git support, where you can stage, commit, and push/pull through the IDE in an easier interface than through the terminal.
 
-Usually it looks somthing like this:
+Usually it looks something like this:
 
 1. A "Source Control" or "Version Control" tab on the side or top of the IDE.
 2. A text prompt to write a Commit message.
