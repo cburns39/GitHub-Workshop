@@ -58,7 +58,7 @@ To clone:
 ### You now have a working local project where you can edit and push your changes to your github repository.  
 ### Now move onto how to version control with git.  
 
-[Guide to using Git for version control](GitControl.md)  
+[Now onto the Activity!](ACTIVITY.md)  
 
 ---
 
