@@ -43,7 +43,7 @@ It is good practice to:
     - A *README.md* file is a markdown text file that works as a place for general documentation.
     - You can add more *.md* files for more documentation on larger projects!
  
-## Cloning
+## Copying
 Now that you have a repository, you can clone it to edit your code and test in an IDE of your choice!
 
 To clone:
