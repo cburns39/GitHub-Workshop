@@ -62,7 +62,7 @@ To clone:
 ---
 
 **Contributers**  
-Madison Lopez
+Madison Lopez | Claire Burns
 
 
 
