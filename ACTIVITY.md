@@ -1,3 +1,5 @@
+<p align="left"><a href="README.md"> <- Main</a></p><p align="right"><a href="GitControl.md"> Git Control -> </a></p>
+
 # Activity  
 
 **Add a text file named "survey.txt" to your cloned repository in your IDE**  
