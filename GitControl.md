@@ -1,3 +1,5 @@
+<p align="left"><a href="ACTIVITY.md"> <- Activity </a> </p>
+
 # Version Control with Git
 
 ---
